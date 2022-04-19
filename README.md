@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+🤔 About me
+<hr/>
+
+Hello, I arrived in Uruguay at the beginning of 2017 to look for new opportunities. In Venezuela I studied seven semesters of Mechanical Engineering. For some time I have been interested in programming, last year I decided to give myself a chance to learn more and now I spend every day in front of the computer, plus I can apply knowledge I acquired during the engineering career. At the moment, I am studying accounting because it is an interesting career with good job opportunities.
+
+
+
 <!--
 **Lraq1991/Lraq1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
